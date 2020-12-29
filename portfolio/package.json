@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.thebrandonhenry.com",
+  "homepage": "http://brandonhenry.github.io/portfolio",
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.13.1",
